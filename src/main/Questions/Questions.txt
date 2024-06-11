@@ -1,0 +1,5 @@
+1. https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
+2. https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
+3. https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true
+4. https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true
+5. https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true
