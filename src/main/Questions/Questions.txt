@@ -1,5 +1,13 @@
+#Easy
 1. https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
 2. https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
 3. https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true
 4. https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true
 5. https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true
+6. https://www.hackerrank.com/challenges/java-arraylist/problem?isFullScreen=true
+7. https://www.hackerrank.com/challenges/java-list/problem?isFullScreen=true
+8. https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
+9. https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true
+10. https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true
+11. https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem?isFullScreen=true
+12. https://www.hackerrank.com/challenges/java-exception-handling/problem?isFullScreen=true
